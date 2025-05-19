@@ -52,7 +52,7 @@ abbreviations = {
     "bff": "best friends forever",
     "xoxo": "hugs and kisses",
     "ttyl": "talk to you later",
-    "fml": "f*** my life",
+    "fml": "fuck my life",
     "tfw": "that feeling when",
     "nvm": "never mind",
     "idc": "i don't care",
