@@ -40,7 +40,7 @@ model = TFBertForSequenceClassification.from_pretrained(model_path)
 tokenizer = BertTokenizer.from_pretrained(model_path)
 
 # --- Initialisation de l'application ---
-app = FastAPI(title="API BERT - Analyse de sentiment")
+app = FastAPI(title="API BERT - Analyse de sentiments")
 
 # --- Schéma de requête ---
 class Tweet(BaseModel):
