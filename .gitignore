@@ -1,0 +1,13 @@
+# Dossiers
+__pycache__/
+.pytest_cache/
+data/
+bert_model/
+mlruns/
+
+# Fichiers
+app.py
+test_api.py
+
+# Notebooks
+*.ipynb

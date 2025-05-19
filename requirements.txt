@@ -1,0 +1,10 @@
+fastapi
+transformers
+tensorflow
+numpy
+scikit-learn
+pandas
+uvicorn[standard]
+gunicorn
+pydantic
+nltk
