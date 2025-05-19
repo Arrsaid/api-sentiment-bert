@@ -4,6 +4,7 @@ tensorflow
 numpy
 scikit-learn
 pandas
+uvicorn
 uvicorn[standard]
 gunicorn
 pydantic
