@@ -23,6 +23,10 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Remove local virtual environment if exists
+      run: |
+        rm -rf antenv
+
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
