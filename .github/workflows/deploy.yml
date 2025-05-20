@@ -1,4 +1,4 @@
-name: Deploy FastAPI on Azure Web App
+name: Deploy Sentiment-API on Azure Web App
 
 on:
   push:
